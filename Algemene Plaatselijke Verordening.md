@@ -1,7 +1,7 @@
 | | |
 |---|---|
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Virtual 2025 |
-| Citeertitel               | Algemene Plaatselijke Verordening Virtual|
+| Citeertitel               | Algemene Plaatselijke Verordening Virtual|test
 | Vastgesteld door          | Hoofd Management |
 | Onderwerp                 | Openbare orde en veiligheid|
 
